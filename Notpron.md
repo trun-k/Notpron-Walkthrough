@@ -180,7 +180,8 @@ Link: http://www.deathball.net/notpron/twentyone/again.htm
  3. Once maze is made, we go from "A to O", or Alpha to Omega 1 and 2 (as seen in white.jpg), which gives our username and password.
 
     We eventually get the below image:
-    ![The solution image](image.png)
+    ![image](https://github.com/trun-k/Notpron-Walkthrough/assets/18391873/5ef79598-8dd4-4c29-afc7-141ea0bad30e)
+
 
     (Password Hint: From A to O)
     - **Username**: getting
@@ -327,7 +328,8 @@ Link: http://deathball.net/notpron/nomeaning/scottymorris.htm
 Link: http://deathball.net/notpron/nomeaning/verysmall.htm
 
 1. The hint in source code is "all craziness on a stick". We can make this stick by lining all black squares in a single column, thus the below image will be formed with the answer "blow".
-![Solution image](Untitled.jpg)
+![Untitled](https://github.com/trun-k/Notpron-Walkthrough/assets/18391873/3da88923-5792-4f9a-827a-4e33e6b3e7b7)
+
 
 ### Level 45:
 Link: http://deathball.net/notpron/nomeaning/blow.htm
@@ -427,7 +429,8 @@ Link: http://deathball.net/notpron/flutsch/gentle.htm
 1. In the source code, we see the image is actual a GIF file, which shows some text every few seconds. When you convert it to a JPG image, we are seen four orange dots.
 2. As the title is 'Think outside the box', the aim here is to determine the letters outside the box made by orange dots. You can achieve this by taking a screenshot of both GIF file with text and the JPG image with orange dots and overplaying one over other in GIMP. I did it in Paint as seen below:
 
-![alt text](image-1.png)
+![image-1](https://github.com/trun-k/Notpron-Walkthrough/assets/18391873/42e03479-1585-4056-8b94-878e619326ac)
+
 
 ### Level 57:
 Link: http://deathball.net/notpron/flutsch/soundslikeitisterrible.htm
